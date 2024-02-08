@@ -1,0 +1,20 @@
+{
+    "name": "Renee",
+    "description": "A place of rebirth and new beginnings, built upon the ashes of the old world.",
+    "Land Formations": [{
+        "name": "River of Life",
+        "description": "A river running through most of the continent, nourishing many diverse ecosystems along its path.",
+        "Settlements": [
+            {
+                "name": "Peakton",
+                "Locations": [],
+                "description": "A mountain town enduring the harsh conditions of piercing, frigid air."
+            },
+            {
+                "name": "Delta",
+                "Locations": [],
+                "description": "A place of change along the River of Life's river delta."
+            }
+        ]
+    }]
+}

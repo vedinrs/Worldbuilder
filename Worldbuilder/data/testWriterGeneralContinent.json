@@ -1,0 +1,16 @@
+{
+    "name": "Test Continent",
+    "description": "Test Description",
+    "Land Formations": [
+        {
+            "name": "Mountain",
+            "description": "Towering Peaks",
+            "Settlements": []
+        },
+        {
+            "name": "River",
+            "description": "Swift and Coursing",
+            "Settlements": []
+        }
+    ]
+}

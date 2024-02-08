@@ -1,0 +1,24 @@
+{
+  "name": "Test Continent",
+  "description": "Test Description",
+  "Land Formations": [{
+    "name": "TestLF",
+    "description": "First Step",
+    "Settlements": [{
+      "name": "TestS",
+      "Locations": [{
+        "Big Items": [{
+          "name": "TestBI",
+          "Small Items": [{
+            "name": "TestSI",
+            "description": "Fifth Step: All The Way Down"
+          }],
+          "description": "Fourth Step"
+        }],
+        "name": "TestL",
+        "description": "Third Step"
+      }],
+      "description": "Second Step"
+    }]
+  }]
+}

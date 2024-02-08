@@ -1,0 +1,58 @@
+{
+    "name": "Test Continent",
+    "description": "Test Description",
+    "Land Formations": [
+        {
+            "name": "TestLF",
+            "description": "First Step",
+            "Settlements": [
+                {
+                    "name": "TestS",
+                    "Locations": [
+                        {
+                            "Big Items": [
+                                {
+                                    "name": "TestBI",
+                                    "Small Items": [
+                                        {
+                                            "name": "TestSI",
+                                            "description": "Fifth Step: All The Way Down"
+                                        },
+                                        {
+                                            "name": "TestSI2",
+                                            "description": "Not A Step"
+                                        }
+                                    ],
+                                    "description": "Fourth Step"
+                                },
+                                {
+                                    "name": "TestBI2",
+                                    "Small Items": [],
+                                    "description": "Not A Step"
+                                }
+                            ],
+                            "name": "TestL",
+                            "description": "Third Step"
+                        },
+                        {
+                            "Big Items": [],
+                            "name": "TestL2",
+                            "description": "Not A Step"
+                        }
+                    ],
+                    "description": "Second Step"
+                },
+                {
+                    "name": "TestS2",
+                    "Locations": [],
+                    "description": "Not A Step"
+                }
+            ]
+        },
+        {
+            "name": "TestLF2",
+            "description": "Not A Step",
+            "Settlements": []
+        }
+    ]
+}

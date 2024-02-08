@@ -1,0 +1,16 @@
+{
+  "Land Formations": [
+    {
+      "name": "Mountain",
+      "description": "Towering Peaks",
+      "Settlements": []
+    },
+    {
+      "name": "River",
+      "description": "Swift and Coursing",
+      "Settlements": []
+    }
+  ],
+  "description": "Test Description",
+  "name": "Test Continent"
+}
